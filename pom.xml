@@ -6,11 +6,4 @@
   <groupId>com.alexandrelion</groupId>
   <artifactId>libwebrtc</artifactId>
   <version>1.0</version>
-  <dependencies>
-    <dependency>
-      <groupId>androidx.appcompat</groupId>
-      <artifactId>appcompat</artifactId>
-      <version>1.2.0</version>
-    </dependency>
-  </dependencies>
 </project>
